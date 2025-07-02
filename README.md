@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">[Javier Salafranca] 🚀</h1>
 
-<!--
-**Sfr99/Sfr99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Computer Engineering student at the University of Zaragoza.<br>
+  Passionate about computing, artificial intelligence, and machine learning.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👋 About Me
+
+I'm an enthusiastic computer science student with a strong interest in technical challenges involving efficient algorithms and artificial intelligence. I enjoy learning new technologies and applying them to real-world problems.
+
+---
+
+### 💻 Technologies and Languages I Use
+
+* 💡 **Main languages:** C++, C, Java
+* 🔧 **Other experience:** Golang, Haskell
+* 🧠 **Fields of interest:**
+
+  * Advanced algorithms
+  * Artificial Intelligence
+  * Machine Learning
+  * Computational optimization
+
+---
+
+### 🚧 Coming Soon
+
+I'm currently working on personal and academic projects related to AI and computing, which I will be sharing here soon.
+
+---
+
+### 📫 Contact
+
+* 📧 Email: [javier.salafranca@gmail.com](mailto:javier.salafranca@gmail.com)
+
+
+---
+
+Thanks for visiting my profile! 
