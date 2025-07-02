@@ -1,4 +1,4 @@
-<h1 align="center">[Javier Salafranca] 🚀</h1>
+<h1 align="center">Javier Salafranca</h1>
 
 <p align="center">
   Computer Engineering student at the University of Zaragoza.<br>
